@@ -1,3 +1,3 @@
 # Swing
 Hey,There!
-A tutorial for java swing programs
+Check out the tutorial for java swing programs.
